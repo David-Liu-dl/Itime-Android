@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CompactCalendarView">
+        <attr name="compactCalendarTextSize" format="dimension"/>
+        <attr name="compactCalenderHeaderBackgroundColor" format="color"/>
+        <attr name="compactCalendarBackgroundColor" format="color"/>
+        <attr name="compactCalendarCurrentDayBackgroundColor" format="color"/>
+        <attr name="compactCalendarCurrentSelectedDayBackgroundColor" format="color"/>
+        <attr name="compactCalendarTextColor" format="color"/>
+        <attr name="compactCalendarMultiEventIndicatorColor" format="color"/>
+        <attr name="compactCalendarTargetHeight" format="dimension"/>
+
+        <attr name="compactCalendarFullLineColor" format="dimension"/>
+        <attr name="compactCalendarDashLineColor" format="dimension"/>
+
+    </declare-styleable>
+</resources>
